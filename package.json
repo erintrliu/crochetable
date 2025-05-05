@@ -1,5 +1,11 @@
 {
-  "homepage": "https://github.com/erintrliu/crochetable.git",
+  "name": "crochetable",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/erintrliu/crochetable.github.io.git"
+  },
+  "author": "Hi",
+  "homepage": "https://github.com/erintrliu/crochetable#readme",
   "dependencies": {
     "three": "^0.176.0"
   },
