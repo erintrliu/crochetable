@@ -1,4 +1,5 @@
 {
+  "homepage": "https://github.com/erintrliu/crochetable.git",
   "dependencies": {
     "three": "^0.176.0"
   },
